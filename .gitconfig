@@ -1,0 +1,9 @@
+[user]
+	name = Shagun Yadav
+	email = earthft.shagun@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
